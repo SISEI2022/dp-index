@@ -9,15 +9,15 @@
 
 ## Estructurales
 
-* [Adapter](https://github.com/ENC2022/dp-adapter)
-* [Facade](https://github.com/ENC2022/dp-facade)
-* [Proxy](https://github.com/ENC2022/dp-proxy)
+* [Adapter](https://github.com/SISEI2022/dp-adapter)
+* [Facade](https://github.com/SISEI2022/dp-facade)
+* [Proxy](https://github.com/SISEI2022/dp-proxy)
 
 ## Conductuales
 
-* [Observer](https://github.com/ENC2022/dp-observer)
-* [Strategy](https://github.com/ENC2022/dp-strategy)
-* [Mediator](https://github.com/ENC2022/dp-mediator)
+* [Observer](https://github.com/SISEI2022/dp-observer)
+* [Strategy](https://github.com/SISEI2022/dp-strategy)
+* [Mediator](https://github.com/SISEI2022/dp-mediator)
 
 ## Clasificación
 
@@ -31,7 +31,3 @@
 ## Aspectos del Diseño que el Patrón te permite variar 
 
 ![image](https://user-images.githubusercontent.com/55771796/174452149-3cde43f1-5e07-42da-90a0-c7820edfd519.png)
-
-## Todos los patrones
-
-* [En lenguage C++](https://github.com/ENC2022/design-patterns-cpp)
