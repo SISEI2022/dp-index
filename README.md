@@ -18,7 +18,7 @@
 ## Conductuales
 
 * [Observer](https://github.com/SISEI2022/dp-observer)
-* [Strategy](https://github.com/SISEI2022/dp-strategy)
+* [Strategy](https://github.com/SISEI2022/dp-strategy) (Bootcamp : Docker)
 * [Mediator](https://github.com/SISEI2022/dp-mediator)
 
 ## Clasificación
